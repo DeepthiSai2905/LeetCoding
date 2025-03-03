@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Design
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/2532-remove-letter-to-equalize-frequency) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
