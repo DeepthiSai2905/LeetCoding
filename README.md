@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
@@ -55,20 +57,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 ## String Matching
