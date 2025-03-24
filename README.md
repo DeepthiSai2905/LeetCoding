@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Deepthi2001/Daily-Coding/tree/master/0035-search-insert-position) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
+| [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |
