@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
 | ------- |
