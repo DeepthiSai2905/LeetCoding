@@ -4,18 +4,13 @@ public:
         return (i==0 || i==m-1) || (j==0 || j==n-1);
     }
     void dfs(vector<vector<char>>& board, int i,int j,int m,int n){
-        if(i<0 || i>=m || j<0 || j>=n || board[i][j]=='X') return ;
+        if(i<0 || i>=m || j<0 || j>=n || board[i][j]!='O') return ;
         board[i][j]='C';
 
-        vector<int>dirs={-1,0,1,0,-1};
-        for(int k=0;k<4;k++){
-            int x= i+dirs[k];
-            int y= j+dirs[k+1];
-            int isValid = (x>=0 && x<m && y>=0 && y<n);
-            if(isValid && board[x][y]=='O'){
-                dfs(board,x,y,m,n);
-            }
-        }
+        dfs(board,i-1,j,m,n);
+        dfs(board,i+1,j,m,n);
+        dfs(board,i,j-1,m,n);
+        dfs(board,i,j+1,m,n);
     }
     void solve(vector<vector<char>>& board) {
         int m=board.size(),n=board[0].size();
