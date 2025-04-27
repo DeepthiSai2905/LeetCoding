@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepthi2001/Daily-Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Deepthi2001/Daily-Coding/tree/master/0035-search-insert-position) |
+| [0130-surrounded-regions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepthi2001/Daily-Coding/tree/master/0162-find-peak-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepthi2001/Daily-Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Deepthi2001/Daily-Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepthi2001/Daily-Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Deepthi2001/Daily-Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -188,12 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/Deepthi2001/Daily-Coding/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
