@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 | [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Deepthi2001/Daily-Coding/tree/master/0871-keys-and-rooms) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -240,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
