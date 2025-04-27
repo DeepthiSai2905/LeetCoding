@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
+| [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 | [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
+| [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
+| [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
+| [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
