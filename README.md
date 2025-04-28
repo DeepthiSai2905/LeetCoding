@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 ## Union Find
