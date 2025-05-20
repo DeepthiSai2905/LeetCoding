@@ -1,14 +1,23 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if(s.length()!=t.length()) return false;
-        int m1[256] = {0}, m2[256] = {0};
-        for(int i=0;i<s.length();i++){
-            if (m1[s[i]] != m2[t[i]]) return false;
-            m1[s[i]] = i + 1;
-            m2[t[i]] = i + 1;
+        unordered_map<char,char>mpST;
+        unordered_map<char,char>mpTS;
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            char c1=s[i], c2=t[i];
+
+            // present and not equal
+            if(mpST.find(c1)!=mpST.end()){
+                if(mpST[c1]!=c2) return false;
+            }
+            else mpST[c1]=c2;
+            if(mpTS.find(c2)!=mpTS.end()){
+                if(mpTS[c2]!=c1) return false;
+            }
+            else mpTS[c2]=c1;
         }
-        
         return true;
+        
     }
 };
