@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Deepthi2001/Daily-Coding/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/Deepthi2001/Daily-Coding/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Deepthi2001/Daily-Coding/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
