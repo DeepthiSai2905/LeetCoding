@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/Deepthi2001/Daily-Coding/tree/master/0782-jewels-and-stones) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
@@ -278,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
