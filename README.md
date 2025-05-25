@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 | [1205-defanging-an-ip-address](https://github.com/Deepthi2001/Daily-Coding/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/Deepthi2001/Daily-Coding/tree/master/1250-longest-common-subsequence) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Design
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/Deepthi2001/Daily-Coding/tree/master/1250-longest-common-subsequence) |
 ## Binary Search Tree
 |  |
 | ------- |
