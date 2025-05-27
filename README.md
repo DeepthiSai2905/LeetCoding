@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepthi2001/Daily-Coding/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Deepthi2001/Daily-Coding/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/Deepthi2001/Daily-Coding/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0494-target-sum) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Deepthi2001/Daily-Coding/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 ## Combinatorics
