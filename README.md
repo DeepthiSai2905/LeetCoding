@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0967-minimum-falling-path-sum) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
