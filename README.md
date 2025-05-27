@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
+| [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 | [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepthi2001/Daily-Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 ## Union Find
 |  |
 | ------- |
@@ -330,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0921-spiral-matrix-iii) |
+| [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
