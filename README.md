@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
+| [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0921-spiral-matrix-iii) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
 | [0967-minimum-falling-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0967-minimum-falling-path-sum) |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
+| [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 | [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0921-spiral-matrix-iii) |
 | [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
