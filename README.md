@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1205-defanging-an-ip-address](https://github.com/Deepthi2001/Daily-Coding/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Deepthi2001/Daily-Coding/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepthi2001/Daily-Coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Deepthi2001/Daily-Coding/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Dynamic Programming
 |  |
 | ------- |
