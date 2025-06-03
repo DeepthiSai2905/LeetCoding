@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepthi2001/Daily-Coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepthi2001/Daily-Coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Deepthi2001/Daily-Coding/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepthi2001/Daily-Coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Deepthi2001/Daily-Coding/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Deepthi2001/Daily-Coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
