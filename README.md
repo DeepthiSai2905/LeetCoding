@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/2035-count-sub-islands) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Deepthi2001/Daily-Coding/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
