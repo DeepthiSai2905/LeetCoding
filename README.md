@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -293,14 +294,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepthi2001/Daily-Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
 ## Matrix
 |  |
