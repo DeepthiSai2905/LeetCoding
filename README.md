@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepthi2001/Daily-Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepthi2001/Daily-Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepthi2001/Daily-Coding/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -382,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
