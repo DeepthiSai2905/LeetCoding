@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Deepthi2001/Daily-Coding/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepthi2001/Daily-Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepthi2001/Daily-Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
