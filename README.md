@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 | [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
