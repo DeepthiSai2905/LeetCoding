@@ -13,19 +13,20 @@ public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         if(head==NULL) return head;
         unordered_set<int>uniq(nums.begin(),nums.end());
-        while(head && uniq.find(head->val)!=uniq.end()){
-            head=head->next;
-        }
+        ListNode* dummy = new ListNode(-1);
+        dummy->next = head;
         ListNode* temp=head;
-        ListNode* prev=NULL;
+        ListNode* prev=dummy;
         while(temp){
-            if(uniq.find(temp->val)!=uniq.end()){ // found
-                    prev->next=temp->next;
+            if (uniq.count(temp->val)) {
+               prev->next = temp->next;
+               //delete(temp); // Optional if memory management is required
+            } else {
+                prev = temp;
             }
-            else prev=temp; // not found
             temp=temp->next;
         }
-        return head;
+        return dummy->next;
 
     }
 };
