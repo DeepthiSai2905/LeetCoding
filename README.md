@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0782-jewels-and-stones](https://github.com/Deepthi2001/Daily-Coding/tree/master/0782-jewels-and-stones) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepthi2001/Daily-Coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Deepthi2001/Daily-Coding/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Deepthi2001/Daily-Coding/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Deepthi2001/Daily-Coding/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Deepthi2001/Daily-Coding/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
