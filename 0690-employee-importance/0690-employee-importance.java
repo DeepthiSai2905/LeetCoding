@@ -8,23 +8,23 @@ class Employee {
 */
 
 class Solution {
+    HashMap<Integer, Employee> mp = new HashMap<>();
+    int result=0;
+    private void recurImp(List<Employee> employees, int id){
+        // base
+
+        // logic
+        Employee e = mp.get(id);
+        result+=e.importance;
+        for(int subid: e.subordinates){
+            recurImp(employees,subid);
+        }
+    }
     public int getImportance(List<Employee> employees, int id) {
-        HashMap<Integer, Employee> mp = new HashMap<>();
         for(Employee e:employees){
             mp.put(e.id,e);
         }
-        int result=0;
-        Queue<Integer> q = new LinkedList<>();
-        q.add(id);
-        while(!q.isEmpty()){
-            int eid = q.poll();
-            Employee e = mp.get(eid);
-            result+=e.importance;
-            // process subordinates
-            for(int subid: e.subordinates){
-                q.add(subid);
-            }
-        }
+        recurImp(employees,id);
         return result;
     }
 }
