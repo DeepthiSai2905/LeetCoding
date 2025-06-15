@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Deepthi2001/Daily-Coding/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Deepthi2001/Daily-Coding/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Iterator
 |  |
 | ------- |
