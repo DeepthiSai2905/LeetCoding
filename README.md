@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Deepthi2001/Daily-Coding/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Deepthi2001/Daily-Coding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Deepthi2001/Daily-Coding/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Deepthi2001/Daily-Coding/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Deepthi2001/Daily-Coding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Deepthi2001/Daily-Coding/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Deepthi2001/Daily-Coding/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Deepthi2001/Daily-Coding/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Deepthi2001/Daily-Coding/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Deepthi2001/Daily-Coding/tree/master/0871-keys-and-rooms) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Deepthi2001/Daily-Coding/tree/master/1706-min-cost-to-connect-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Deepthi2001/Daily-Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Deepthi2001/Daily-Coding/tree/master/0820-find-eventual-safe-states) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
