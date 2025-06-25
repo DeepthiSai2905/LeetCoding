@@ -1,20 +1,15 @@
 class Solution {
 public:
+    struct comp{
+        bool operator()(const vector<int>& pointA, const vector<int>& pointB){
+            int distA = pointA[0]*pointA[0] + pointA[1]*pointA[1];
+            int distB = pointB[0]*pointB[0] + pointB[1]*pointB[1];
+            return distA<distB;
+        }
+    };
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        vector<vector<int>>result;
-        priority_queue<pair<int,int>>pq;
-        for(int i=0;i<points.size();i++){
-            int x=points[i][0];
-            int y=points[i][1];
-            int dist = x*x+y*y;
-            pq.push({dist,i});
-            if(pq.size()>k) pq.pop();
-        }
-        while(!pq.empty()){
-            int index = pq.top().second;
-            result.push_back(points[index]);
-            pq.pop();
-        }
-        return result;
+        // no extra space
+        sort(points.begin(),points.end(),comp());
+        return vector<vector<int>>(points.begin(),points.begin()+k);
     }
 };
