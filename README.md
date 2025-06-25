@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 | [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
