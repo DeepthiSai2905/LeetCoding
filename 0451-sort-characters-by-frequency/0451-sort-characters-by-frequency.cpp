@@ -4,19 +4,17 @@ public:
         unordered_map<char,int>mp;
         for(char ch:s) mp[ch]++;
 
-        priority_queue<pair<int,char>>pq;
-
+        int n=s.length();
         string result;
+        vector<vector<char>>v(n+1);
         for(auto itr:mp){ // O(n)
-            pq.push({itr.second,itr.first});
+            v[itr.second].push_back(itr.first);
         }
-        while(!pq.empty()){ // o(nlogn)
-            auto it = pq.top(); 
-            pq.pop();
-            int freq  = it.first;
-            char ch = it.second;
-            while(freq--){
-                result+=ch;
+        for(int i=n;i>0;i--){ // o(n)
+            for(auto ch: v[i]){
+                for(int count=0;count<i;count++){
+                    result+=ch;
+                }
             }
         }
         return result;
