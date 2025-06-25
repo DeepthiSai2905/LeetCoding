@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0921-spiral-matrix-iii) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
 | [0967-minimum-falling-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [3430-count-days-without-meetings](https://github.com/Deepthi2001/Daily-Coding/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
+| [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Deepthi2001/Daily-Coding/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Divide and Conquer
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 ## Prefix Sum
 |  |
@@ -449,11 +454,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
