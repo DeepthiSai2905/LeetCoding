@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
@@ -478,5 +482,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
