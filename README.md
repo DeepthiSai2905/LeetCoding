@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepthi2001/Daily-Coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0617-merge-two-binary-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Deepthi2001/Daily-Coding/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Deepthi2001/Daily-Coding/tree/master/0975-range-sum-of-bst) |
 ## Linked List
 |  |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -458,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
