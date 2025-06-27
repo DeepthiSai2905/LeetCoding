@@ -1,34 +1,29 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        // make m small - nums1 small
         int m=nums1.size();
         int n=nums2.size();
-        int i=0,j=0;
-        int count=0;
-        int medVal= (m+n)/2;
-        int prev,median;
-        while(count<=medVal){
-            prev=median;
-            if(i<m && j<n){
-                if(nums1[i]<nums2[j]) {
-                    median=nums1[i];
-                    i++;
-                }
-                else{
-                    median=nums2[j];
-                    j++;
-                }
+        if(m>n) return findMedianSortedArrays(nums2,nums1);
+        int low=0,high=m;
+        while(low<=high){
+            int parX = low+(high-low)/2;
+            int parY = (m+n)/2 - parX;
+            double X1 = parX==0 ? INT_MIN : nums1[parX-1];
+            double X2 = parY==0 ? INT_MIN : nums2[parY-1];
+            double Y1 = parX==m ? INT_MAX : nums1[parX];
+            double Y2 = parY==n ? INT_MAX : nums2[parY];
+            if(X1<=Y2 && X2<=Y1){
+                // right partition
+                if((m+n)%2 ==0) return (min(Y1,Y2)+ max(X1,X2))/2;
+                else return min(Y1,Y2);
             }
-            else if(i<m && j==n){
-                median=nums1[i]; i++;
+            else if(X1>Y2){
+                high=parX-1;
             }
-            else if(j<n && i==m){
-                median=nums2[j]; j++;
-            }
-            count++;
+            else low=parX+1;
         }
-        if((m+n)%2==0) return (prev+median)/2.0;
-        else return median/1.0;
+        return -1;
 
     }
 };
