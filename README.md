@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepthi2001/Daily-Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deepthi2001/Daily-Coding/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Deepthi2001/Daily-Coding/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Deepthi2001/Daily-Coding/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Deepthi2001/Daily-Coding/tree/master/0069-sqrtx) |
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Deepthi2001/Daily-Coding/tree/master/2704-maximum-difference-by-remapping-a-digit) |
