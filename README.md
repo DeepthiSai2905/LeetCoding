@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Deepthi2001/Daily-Coding/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepthi2001/Daily-Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
