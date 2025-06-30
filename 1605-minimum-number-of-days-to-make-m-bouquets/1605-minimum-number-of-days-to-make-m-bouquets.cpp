@@ -20,7 +20,7 @@ public:
         // no of flowers - (bloomday size) < m*k not possible to find m bouquets
         if (bloomDay.size() < total) return -1; 
 
-        int low = 1, high = *max_element(bloomDay.begin(), bloomDay.end());
+        int low = *min_element(bloomDay.begin(), bloomDay.end()), high = *max_element(bloomDay.begin(), bloomDay.end());
         int ans = -1;
         
         while (low <= high) { // o(log(maxelement))
