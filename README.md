@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Deepthi2001/Daily-Coding/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Deepthi2001/Daily-Coding/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0205-isomorphic-strings) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Deepthi2001/Daily-Coding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Deepthi2001/Daily-Coding/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Deepthi2001/Daily-Coding/tree/master/0069-sqrtx) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0921-spiral-matrix-iii) |
