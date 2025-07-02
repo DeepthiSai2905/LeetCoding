@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Deepthi2001/Daily-Coding/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Deepthi2001/Daily-Coding/tree/master/0127-word-ladder) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Deepthi2001/Daily-Coding/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0160-intersection-of-two-linked-lists) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
