@@ -1,32 +1,37 @@
 class Solution {
 public:
-    bool checkAnagram(vector<int>scount,vector<int>pcount){
-        for(int i=0;i<26;i++){
-            if(scount[i]!=pcount[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     vector<int> findAnagrams(string s, string p) {
         int n=s.length(),m=p.length();
         vector<int>result;
-        // brute - sliding window - check each window for anagram
-        vector<int>res;
-        vector<int>pcount(26,0);
-        vector<int>scount(26,0);
+        if (n < m) return result;
+        // optimal 
+        unordered_map<int,int>mp; // p string map
         for(char ch:p){
-            pcount[ch-'a']++;
+            mp[ch]++;
         }
-        // first m elements only
-        for(int i=0;i<m;i++){
-            scount[s[i]-'a']++;
-        }
-        if(checkAnagram(scount,pcount)) result.push_back(0); // first window
-        for(int i=m;i<n;i++){ // o(n)
-            scount[s[i-m]-'a']--; // remove outgoing // next to this is first index of window
-            scount[s[i]-'a']++; // add incoming
-            if(checkAnagram(scount,pcount)){ // o(26)
+        int matchCount=0;
+        for(int i=0;i<n;i++){
+
+            // incoming processing
+            char in=s[i];
+            if(mp.find(in)!=mp.end()){
+                mp[in]--;
+                if(mp[in]==0){ // unique match coming into window
+                 matchCount++;
+                }
+            }
+            // outgoing possible only from mth
+            if(i>=m){
+                char out=s[i-m];
+                if(mp.find(out)!=mp.end()){
+                    mp[out]++; // would have been a match in prev window
+                    if(mp[out]==1){ // unique match going out of window
+                      matchCount--;
+
+                    }
+                }
+            }
+            if(matchCount==mp.size()){
                 result.push_back(i-m+1);
             }
         }
