@@ -26,7 +26,7 @@ public:
             }
             hashS = (hashS*k+(haystack[i]-'a'+1))%mod; // add current char
             
-            if(i >= m - 1 && hashS==hashP) return i-m+1;
+            if(hashS==hashP) return i-m+1;
         }
 
         
