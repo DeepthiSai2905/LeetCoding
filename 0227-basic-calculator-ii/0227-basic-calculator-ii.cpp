@@ -5,38 +5,38 @@ public:
         return ch>='0' && ch<='9';
     }
     int calculate(string s) {
-        int n=s.length();
-        if(n==0) return 0;
-        // trim start and end spaces in string
+        int n = s.length();
+        int result = 0;
+        int currNum = 0;
+        int lastNum = 0;
+        char sign = '+'; // Start with '+' so first num gets added to result
 
-        stack<int>st;
-        int currNum=0;
-        char lastSign='+';
-        for(int i=0;i<n;i++){
-            char ch=s[i];
-            if(isDigit(ch)){
-                currNum=currNum*10+(ch-'0');
+        for (int i = 0; i < n; ++i) {
+            char ch = s[i];
+
+            if (isDigit(ch)) {
+                currNum = currNum * 10 + (ch - '0');
             }
-            if((!isDigit(ch) && ch!=' ') || i==n-1){
-                int value;
-                if(lastSign=='+') value = currNum;
-                else if(lastSign=='-') value = currNum*-1;
-                else if(lastSign=='*'){
-                    value = currNum*st.top();
-                    st.pop();
-                }else if(lastSign=='/'){
-                    value = st.top()/currNum;
-                    st.pop();
+
+            // If not digit or last char: process operator
+            if ((!isDigit(ch) && ch != ' ') || i == n - 1) {
+                if (sign == '+') {
+                    result += lastNum;
+                    lastNum = currNum;
+                } else if (sign == '-') {
+                    result += lastNum;
+                    lastNum = -currNum;
+                } else if (sign == '*') {
+                    lastNum = lastNum * currNum;
+                } else if (sign == '/') {
+                    lastNum = lastNum / currNum;
                 }
-                st.push(value);
-                currNum=0;
-                lastSign=ch;
+                sign = ch;
+                currNum = 0;
             }
         }
-        int result=0;
-        while(!st.empty()){
-            result+=st.top(); st.pop();
-        }
-       return result; 
+
+        result += lastNum; // Add the last evaluated number
+        return result;
     }
 };
