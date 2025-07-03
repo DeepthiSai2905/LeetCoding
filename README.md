@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Deepthi2001/Daily-Coding/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Deepthi2001/Daily-Coding/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0290-word-pattern) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Deepthi2001/Daily-Coding/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Deepthi2001/Daily-Coding/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Deepthi2001/Daily-Coding/tree/master/2206-detonate-the-maximum-bombs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Deepthi2001/Daily-Coding/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
+| [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
 ## Recursion
 |  |
