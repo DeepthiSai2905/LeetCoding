@@ -9,12 +9,41 @@
  */
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) { // ismirror
-        if(root==NULL || root->val==p->val || root->val==q->val) return root;
-        TreeNode* left_lca = lowestCommonAncestor(root->left,p,q);
-        TreeNode* right_lca = lowestCommonAncestor(root->right,p,q);
-        if(left_lca && right_lca) return root;
-        return !left_lca ? right_lca : left_lca;
+    vector<TreeNode*> pathP, pathQ;
+    void helper(TreeNode* root, TreeNode* p, TreeNode* q, vector<TreeNode*> &path){
+        //base case
+        if(root==NULL) return ;
+        // after we got both path we dont need to iterate any furthur
+        // if(pathP.size()>0 && pathQ.size()>0) return; // conditional exit
+        //logic
 
+        //action
+        path.push_back(root);
+        if(root==p){
+            pathP=path;
+            pathP.push_back(root);
+        }
+        if(root==q){
+            pathQ=path;
+            pathQ.push_back(root);
+        }
+        // recurse
+        helper(root->left,p,q,path);
+        helper(root->right,p,q,path);
+        //backtrack
+        path.pop_back();
+    }
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        // Brute create path for both p,q
+        // base case
+        if(root==NULL) return NULL;
+        vector<TreeNode*> path;
+        helper(root,p,q,path);
+        for(int i=0;i<pathP.size();i++){
+            if(pathP[i]!=pathQ[i]){
+                return pathP[i-1];
+            }
+        }
+        return NULL;
     }
 };
