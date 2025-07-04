@@ -13,25 +13,23 @@ class Solution {
 public:
     int result;
     int count;
-    void inorderTraverse(TreeNode* root){
-        if(root==NULL) return ;
-       // System.print.outln(root->val). // example 1: k=2 -> 3124 (prints all even if added return in 23)
-       // to skip traversal after k is 0, add below line
-        if(result!=INT_MAX) return ; // conditional exit
-        inorderTraverse(root->left);
+    // lets do int based recursion
+    int inorderTraverse(TreeNode* root){
+        if(root==NULL) return INT_MAX;
+        int left = inorderTraverse(root->left);
+        if(left!=INT_MAX) return left;
         count--; // root
         if(count==0) {
-            result = root->val;
-            return ; // wtever goes in comes out of recrusion stack 
+            return root->val;
         }
-        inorderTraverse(root->right);
+        int right = inorderTraverse(root->right);
+        return right;
     }
     int kthSmallest(TreeNode* root, int k) {
         result=INT_MAX;
         count=k;
         // inorder
-        inorderTraverse(root);
-        return result;
+        return inorderTraverse(root);
         
     }
 };
