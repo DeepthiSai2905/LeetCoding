@@ -11,16 +11,13 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL || root==p || root==q) return root;
-        while(root){
-            if(root->val<p->val  && root->val<q->val){
-                root=root->right;
-            }
-            else if(root->val>p->val  && root->val>q->val){
-                root=root->left;
-            } 
-            else return root;  
+        int l = p->val;
+        int u = q->val;
+        if(u < l) swap(l,u); // u bigger element out of both
+        while(true){
+            if(root->val > u) root = root->left;
+            else if(root->val < l) root = root->right;
+            else return root;
         }
-        return NULL;
     }
 };
