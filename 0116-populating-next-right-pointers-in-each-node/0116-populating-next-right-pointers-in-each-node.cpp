@@ -18,23 +18,22 @@ public:
 
 class Solution {
 public:
+    void dfsConnect(Node* root){
+        // preorder
+        if(root->left==NULL) return ; // for level
+        // logic
+        // 1. connect leftchild to rightchild
+        root->left->next=root->right;
+        // 2. connect right of left node chunk to left of right node chunk 
+        if(root->next){
+            root->right->next = root->next->left;
+        }
+        dfsConnect(root->left);
+        dfsConnect(root->right);
+    }
     Node* connect(Node* root) {
         if(!root) return root;
-        Node* level=root;
-        while(level->left){
-            Node* curr=level;
-            while(curr){
-                // 1. connect leftchild to rightchild
-                curr->left->next=curr->right;
-                // 2. connect right of left node chunk to left of right node chunk 
-                if(curr->next){
-                    curr->right->next = curr->next->left;
-                }
-                // 3. go to next 
-                curr=curr->next;
-            }
-            level=level->left;
-        }
+        dfsConnect(root);
         return root;
     }
 };
