@@ -11,31 +11,28 @@
  */
 class Solution {
 public:
-    void inorderTrav(TreeNode* root, vector<TreeNode*>&inOrder) {
+    // now find first,second nodes to swap
+    // when first is NULL, it is first anamoly
+    TreeNode* prev=NULL,*first=NULL,*second=NULL;
+    void inorderTrav(TreeNode* root) {
         if(!root) return ;
-        inorderTrav(root->left,inOrder);
-        inOrder.push_back(root);
-        inorderTrav(root->right,inOrder);
+        inorderTrav(root->left);
+
+        //logic
+        if(prev && prev->val >= root->val){
+            if(!first) {
+                first = prev;
+            }
+            second=root;
+        }
+        prev=root;
+
+        inorderTrav(root->right);
     }
     
     void recoverTree(TreeNode* root) {
-        vector<TreeNode*>inOrder;
-        inorderTrav(root, inOrder);
-        // now find first,second nodes to swap
-        // when first is NULL, it is first anamoly
-        TreeNode* prev=NULL,*first=NULL,*second=NULL;
-        for(int i=0;i<inOrder.size();i++){
-            if(prev && prev->val >= inOrder[i]->val){
-                if(!first) {
-                    first = prev;
-                    second=inOrder[i];
-                }
-                else{
-                    second=inOrder[i];
-                }
-            }
-            prev=inOrder[i];
-        }
+        inorderTrav(root);
+        
         int temp=first->val;
         first->val=second->val;
         second->val=temp;
