@@ -14,6 +14,33 @@ public:
     // now find first,second nodes to swap
     // when first is NULL, it is first anamoly
     TreeNode* prev=NULL,*first=NULL,*second=NULL;
+
+    void inorderTravItr(TreeNode* root) {
+        if(!root) return ;
+        stack<TreeNode*>st;
+        // inorderTrav(root->left);
+        // this takes care of rightsubtree left calls
+        while(!st.empty() || root!=NULL){ 
+            while(root){
+                st.push(root);
+                root=root->left;
+            }
+        
+            root=st.top(); st.pop();
+            //logic
+            if(prev && prev->val >= root->val){
+                if(!first) {
+                    first = prev;
+                }
+                second=root;
+            }
+            prev=root;
+
+            // inorderTrav(root->right);
+            root=root->right;
+        }
+    }
+
     void inorderTrav(TreeNode* root) {
         if(!root) return ;
         inorderTrav(root->left);
@@ -31,7 +58,7 @@ public:
     }
     
     void recoverTree(TreeNode* root) {
-        inorderTrav(root);
+        inorderTravItr(root);
         
         int temp=first->val;
         first->val=second->val;
