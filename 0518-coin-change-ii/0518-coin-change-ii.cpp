@@ -3,16 +3,17 @@ public:
     int change(int amount, vector<int>& coins) {
         // // space optimisation 
         int n=coins.size();
-        // int dp[n][amount+1];
-        vector<unsigned long long>dp(amount+1);
+        vector<unsigned long long>curr(amount+1);
+        vector<unsigned long long>prev(amount+1,0);
         // take first coin and check for amount
-        dp[0]=1;
-        
+        prev[0]=1;
         for(int i=0;i<n;i++){
+            curr[0]=1;
             for(int j=coins[i];j<=amount;j++){
-                dp[j]= dp[j] + dp[j-coins[i]];
+                curr[j]= prev[j] + curr[j-coins[i]];
             }
+            prev=curr;
         }
-        return dp[amount];  
+        return prev[amount];  
     }
 };
