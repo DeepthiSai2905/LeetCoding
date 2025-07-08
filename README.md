@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi2001/Daily-Coding/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Deepthi2001/Daily-Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/1073-number-of-enclaves) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Deepthi2001/Daily-Coding/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Deepthi2001/Daily-Coding/tree/master/1380-number-of-closed-islands) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Deepthi2001/Daily-Coding/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/Deepthi2001/Daily-Coding/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepthi2001/Daily-Coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Binary Search Tree
