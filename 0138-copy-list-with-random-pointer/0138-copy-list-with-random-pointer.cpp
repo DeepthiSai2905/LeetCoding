@@ -20,23 +20,22 @@ public:
         if(!head) return head;
         unordered_map<Node*,Node*>mp;
         Node* curr=head;
-        Node* copyHead=new Node(head->val);
-        mp[head]=copyHead;
-        Node* copycurr=copyHead;
         // create clone of next pointers
-        while(curr->next){
-            Node* copynode = new Node(curr->next->val);
-            mp[curr->next]=copynode; // deep copy
-            copycurr->next = copynode; // linking cloned nodes
+        while(curr){
+            // Node* copynode = 
+            mp[curr]=new Node(curr->val); // deep copy
+            // copycurr->next = copynode; // linking cloned nodes
             curr=curr->next;
-            copycurr = copycurr->next;
+            // copycurr = copycurr->next;
         }
         // handle random pointers now
         curr=head;
         while(curr){
-            mp[curr]->random=mp[curr->random];
+            mp[curr]->next = mp[curr->next];
+            mp[curr]->random = mp[curr->random];
+            // mp[curr]->random= curr->random ? mp[curr->random] : NULL;
             curr=curr->next;
         }
-        return copyHead;
+        return mp[head];
     }
 };
