@@ -13,16 +13,24 @@ class Solution {
 public:
     void flatten(TreeNode* root) {
         if(root==NULL) return ;
-        flatten(root->left);
-        flatten(root->right);
-        TreeNode* temp=root->left;
-        root->left=root->right;
-        root->right=temp;
-        TreeNode* node=root;
-        while(node->right){
-            node=node->right;
+        // left side
+        TreeNode* curr=root;
+        while(curr){
+            if(curr->left){
+                // bring right subtree to left
+                TreeNode* preced = curr->left;
+                while(preced->right){
+                    preced=preced->right;
+                }
+                // connect right subtree to right most node of left subtree
+                preced->right=curr->right;
+                // move left to right (we need linkedlist to right)
+                curr->right=curr->left;
+                curr->left=NULL;
+            }
+            // we no more have left subtrees
+            curr=curr->right;
         }
-        node->right=root->left;
-        root->left=NULL;
+        // tc - o(n), sc-o(1)
     }
 };
