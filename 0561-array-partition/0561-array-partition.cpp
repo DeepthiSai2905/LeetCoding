@@ -15,14 +15,32 @@ public:
         for(int num=mini;num<=maxi;num++){
             int currCount=mp[num];
             if(currCount<1) continue;
-            while(currCount>0){
-                if(!skipFlag){ // skip
+            // we dont need to iterate over freq 
+            if(skipFlag){
+                currCount--; // skip one
+                int rem=currCount%2;
+                sum+=num*(currCount/2);
+                currCount/=2;
+                // now skipflag will be false
+                skipFlag=false;
+                if(rem==1) { 
                     sum+=num;
+                    currCount--;
+                    skipFlag=true;
                 }
-                currCount--;
-                skipFlag=!skipFlag;
-                mp[num]=0;
             }
+            else{ // dont skip
+                sum+=num*(currCount/2);
+                int rem=currCount%2;
+                // now skipflag will be false
+                if(rem==1) { 
+                    sum+=num;
+                    currCount--;
+                    skipFlag=true;
+                }
+
+            }
+            
         }
         return sum;
     }
