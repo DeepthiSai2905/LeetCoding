@@ -17,28 +17,16 @@ public:
             if(currCount<1) continue;
             // we dont need to iterate over freq 
             if(skipFlag){
-                currCount--; // skip one
-                int rem=currCount%2;
-                sum+=num*(currCount/2);
-                currCount/=2;
-                // now skipflag will be false
-                skipFlag=false;
-                if(rem==1) { 
-                    sum+=num;
-                    currCount--;
-                    skipFlag=true;
-                }
+                    currCount--; // skip one
+                    skipFlag=false;
             }
-            else{ // dont skip
-                sum+=num*(currCount/2);
-                int rem=currCount%2;
-                // now skipflag will be false
-                if(rem==1) { 
-                    sum+=num;
-                    currCount--;
-                    skipFlag=true;
-                }
-
+            int rem=currCount%2;
+            sum+=num*(currCount/2);
+            currCount/=2;
+            if(rem==1) { 
+                sum+=num;
+                currCount--;
+                skipFlag=true;
             }
             
         }
