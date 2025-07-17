@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deepthi2001/Daily-Coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0064-minimum-path-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepthi2001/Daily-Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0347-top-k-frequent-elements) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0064-minimum-path-sum) |
