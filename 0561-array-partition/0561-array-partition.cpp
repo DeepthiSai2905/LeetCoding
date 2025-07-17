@@ -16,14 +16,11 @@ public:
             int currCount=mp[num];
             if(currCount<1) continue;
             while(currCount>0){
-                if(skipFlag){ // skip
-                    currCount--;
-                    skipFlag=false;
-                }else{ // dont skip 
+                if(!skipFlag){ // skip
                     sum+=num;
-                    currCount--;
-                    skipFlag=true;
                 }
+                currCount--;
+                skipFlag=!skipFlag;
                 mp[num]=0;
             }
         }
