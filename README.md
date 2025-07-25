@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Deepthi2001/Daily-Coding/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0525-contiguous-array) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
