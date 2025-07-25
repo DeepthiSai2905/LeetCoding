@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Deepthi2001/Daily-Coding/tree/master/0907-koko-eating-bananas) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
