@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepthi2001/Daily-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Deepthi2001/Daily-Coding/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
