@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Deepthi2001/Daily-Coding/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepthi2001/Daily-Coding/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepthi2001/Daily-Coding/tree/master/0451-sort-characters-by-frequency) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Deepthi2001/Daily-Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepthi2001/Daily-Coding/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Deepthi2001/Daily-Coding/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Deepthi2001/Daily-Coding/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepthi2001/Daily-Coding/tree/master/0417-pacific-atlantic-water-flow) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepthi2001/Daily-Coding/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepthi2001/Daily-Coding/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepthi2001/Daily-Coding/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Deepthi2001/Daily-Coding/tree/master/1030-smallest-string-starting-from-leaf) |
