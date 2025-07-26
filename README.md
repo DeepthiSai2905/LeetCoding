@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Deepthi2001/Daily-Coding/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0064-minimum-path-sum) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Deepthi2001/Daily-Coding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0064-minimum-path-sum) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Deepthi2001/Daily-Coding/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Deepthi2001/Daily-Coding/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
