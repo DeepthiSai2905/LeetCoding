@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deepthi2001/Daily-Coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepthi2001/Daily-Coding/tree/master/0055-jump-game) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepthi2001/Daily-Coding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepthi2001/Daily-Coding/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Deepthi2001/Daily-Coding/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0680-valid-palindrome-ii) |
