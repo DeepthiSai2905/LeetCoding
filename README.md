@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Deepthi2001/Daily-Coding/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
+| [0768-partition-labels](https://github.com/Deepthi2001/Daily-Coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Deepthi2001/Daily-Coding/tree/master/0782-jewels-and-stones) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Deepthi2001/Daily-Coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Deepthi2001/Daily-Coding/tree/master/0782-jewels-and-stones) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Deepthi2001/Daily-Coding/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Deepthi2001/Daily-Coding/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Deepthi2001/Daily-Coding/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Deepthi2001/Daily-Coding/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Deepthi2001/Daily-Coding/tree/master/0917-boats-to-save-people) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Deepthi2001/Daily-Coding/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Iterator
