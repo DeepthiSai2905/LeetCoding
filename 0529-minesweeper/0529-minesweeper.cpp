@@ -13,6 +13,24 @@ public:
         }
         return mines;
     }
+    void dfs(vector<vector<char>>& board, int x, int y, int m, int n){
+        // base
+        if(!isValid(x,y,m,n) || board[x][y]!='E') return ;
+
+        //logic
+        board[x][y]='B';
+        int mines = countMines(board, x, y,m,n);
+        if(mines>0) {
+            board[x][y]=mines+'0';
+            return ;
+        }
+        // no mines then only explore neighbors
+        for(auto d: dirs){
+            int newX = x+d[0];
+            int newY = y+d[1];
+            dfs(board,newX,newY,m,n);
+        }
+    }
     vector<vector<char>> updateBoard(vector<vector<char>>& board, vector<int>& click) {
         int m=board.size(), n=board[0].size();
         int clickx=click[0],clicky=click[1];
@@ -20,7 +38,9 @@ public:
             board[clickx][clicky]='X'; // reveal it
             return board;
         }
-        queue<pair<int,int>>Q;
+
+        dfs(board, clickx, clicky,m,n);
+        /*queue<pair<int,int>>Q;
         Q.push({clickx,clicky});
         board[clickx][clicky]='B';
         while(!Q.empty()){
@@ -44,7 +64,7 @@ public:
                 }
             }
             
-        }
+        }*/
         return board;
     }
 };
