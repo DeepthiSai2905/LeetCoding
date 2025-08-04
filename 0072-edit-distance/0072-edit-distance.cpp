@@ -1,22 +1,24 @@
 class Solution {
 public:
     int minDistanceRec(string word1, string word2, int m, int n) {
-        vector<int>prev(n+1,0);
-        vector<int>curr(n+1,0);
-        for (int j = 0; j <= n; j++) prev[j] = j;
+        vector<int>dp(n+1,0);
+        for(int j=0;j<=n;j++) dp[j]=j;
         for(int i=1;i<=m;i++){
-            curr[0] = i;  // This corresponds to dp[i][0] (deleting all characters from word1)
+            int diagUp=dp[0];
+            dp[0]=i;
             for(int j=1;j<=n;j++){
+                int temp=dp[j];
                 if(word1[i-1]==word2[j-1]){
-                    curr[j]=prev[j-1];
+                    dp[j]=diagUp;
                 }
                 else{
-                    curr[j]=1+min(prev[j-1],min(prev[j],curr[j-1]));
+                    // dp[i][j]=1+min(dp[i-1][j-1],min(dp[i-1][j],dp[i][j-1]));
+                    dp[j]=1+min(diagUp,min(dp[j],dp[j-1]));
                 }
+                diagUp=temp;
             }
-            prev=curr;
         }
-        return prev[n];
+        return dp[n];
     }
     int minDistance(string word1, string word2) {
         int m=word1.length();
