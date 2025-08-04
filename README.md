@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Deepthi2001/Daily-Coding/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Deepthi2001/Daily-Coding/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Deepthi2001/Daily-Coding/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0224-basic-calculator) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Deepthi2001/Daily-Coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepthi2001/Daily-Coding/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Deepthi2001/Daily-Coding/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Deepthi2001/Daily-Coding/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Deepthi2001/Daily-Coding/tree/master/0322-coin-change) |
