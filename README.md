@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Deepthi2001/Daily-Coding/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Deepthi2001/Daily-Coding/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Deepthi2001/Daily-Coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Deepthi2001/Daily-Coding/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Deepthi2001/Daily-Coding/tree/master/0053-maximum-subarray) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Deepthi2001/Daily-Coding/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepthi2001/Daily-Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Deepthi2001/Daily-Coding/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
