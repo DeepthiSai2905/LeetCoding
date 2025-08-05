@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0636-exclusive-time-of-functions) |
@@ -649,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Deepthi2001/Daily-Coding/tree/master/0561-array-partition) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
