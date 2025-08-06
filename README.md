@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Deepthi2001/Daily-Coding/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepthi2001/Daily-Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepthi2001/Daily-Coding/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Deepthi2001/Daily-Coding/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Deepthi2001/Daily-Coding/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Deepthi2001/Daily-Coding/tree/master/0227-basic-calculator-ii) |
