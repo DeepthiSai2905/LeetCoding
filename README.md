@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
+| [0816-design-hashset](https://github.com/Deepthi2001/Daily-Coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Deepthi2001/Daily-Coding/tree/master/0817-design-hashmap) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/Deepthi2001/Daily-Coding/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Deepthi2001/Daily-Coding/tree/master/0782-jewels-and-stones) |
+| [0816-design-hashset](https://github.com/Deepthi2001/Daily-Coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Deepthi2001/Daily-Coding/tree/master/0817-design-hashmap) |
 | [0862-find-and-replace-in-string](https://github.com/Deepthi2001/Daily-Coding/tree/master/0862-find-and-replace-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/Deepthi2001/Daily-Coding/tree/master/0926-find-and-replace-pattern) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepthi2001/Daily-Coding/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/Deepthi2001/Daily-Coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Deepthi2001/Daily-Coding/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/Deepthi2001/Daily-Coding/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Deepthi2001/Daily-Coding/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/Deepthi2001/Daily-Coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Deepthi2001/Daily-Coding/tree/master/0817-design-hashmap) |
 ## Backtracking
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Deepthi2001/Daily-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Deepthi2001/Daily-Coding/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepthi2001/Daily-Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0816-design-hashset](https://github.com/Deepthi2001/Daily-Coding/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Deepthi2001/Daily-Coding/tree/master/0817-design-hashmap) |
 | [2411-spiral-matrix-iv](https://github.com/Deepthi2001/Daily-Coding/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
