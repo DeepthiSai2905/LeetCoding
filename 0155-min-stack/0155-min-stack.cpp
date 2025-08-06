@@ -1,37 +1,53 @@
 class MinStack {
 public:
-    stack<pair<int,int>>s;
+   /*
+    newVal < val --- 1
+    val < minEle
+    val+val<minEle+val
+    2*val - minEle < val -- 2
+    comparing 1&2 => newVal = 2*val-minEle
+   */
+    stack<long long>s;
+    long long minEle = INT_MAX;
     MinStack() {
         
     }
     
     void push(int val) {
-        if(s.empty()){
-            s.push({val,val});
+        if(s.empty()) {
+            s.push(val); minEle=val;
+            return ;
         }
-        else {
-            auto topEle = s.top();
-            if(val<topEle.second){
-                s.push({val,val});
-            }
-            else{
-                s.push({val,topEle.second});
-            }
+        if(val<minEle){ // update mini but before that push newvalue
+           long long newVal = 2LL*val-minEle;
+           s.push(newVal);
+           minEle = val;
+        }
+        else{
+            s.push(val);
         }
     }
     
     void pop() {
-        s.pop();
+        if(s.empty()) return ;
+        long long topEle = s.top(); s.pop();
+        if(topEle < minEle){ // modified value found
+           minEle = 2*minEle - topEle;
+        }
     }
     
     int top() {
         if(s.empty()) return -1;
-        return s.top().first;
+        long long topEle = s.top();
+        if(topEle < minEle){ // modified value found
+           return minEle;
+        }
+        return (int)topEle;
     }
     
     int getMin() {
        if(s.empty()) return -1;
-       return s.top().second;
+       return (int)minEle;
     }
 };
 
