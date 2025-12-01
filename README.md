@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Deepthi2001/Daily-Coding/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Deepthi2001/Daily-Coding/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/Deepthi2001/Daily-Coding/tree/master/0658-find-k-closest-elements) |
+| [0665-non-decreasing-array](https://github.com/Deepthi2001/Daily-Coding/tree/master/0665-non-decreasing-array) |
 | [0690-employee-importance](https://github.com/Deepthi2001/Daily-Coding/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Deepthi2001/Daily-Coding/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Deepthi2001/Daily-Coding/tree/master/0739-daily-temperatures) |
