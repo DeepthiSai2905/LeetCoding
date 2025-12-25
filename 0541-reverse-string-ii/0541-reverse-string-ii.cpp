@@ -4,17 +4,10 @@ public:
         int n=s.length();
         int i=0;
         string result;
-        while(i+2*k<n){
-            reverse(s.begin()+i,s.begin()+i+k);
-            i+=2*k;
-        }
-        int remStrlen = n-i; // leftover string
-        
-        if(remStrlen<k){
-            reverse(s.begin()+i, s.end()); // reverse all
-        }
-        else{
-        reverse(s.begin()+i, s.begin()+i+k); // reverse first k
+        for(int i=0;i<n;i+=2*k){
+            //  min(chars left in last window, k);
+            int end = min(n-i, k);
+            reverse(s.begin()+i,s.begin()+i+end);
         }
         return s;
     }
