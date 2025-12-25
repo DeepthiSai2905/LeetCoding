@@ -17,15 +17,11 @@ public:
                 break;
             }
             else{
-                // take 2k characters
-                string word1 = s.substr(i,k);
-                string word2 = s.substr(i+k,k);
-                reverse(word1.begin(),word1.end());
-                result+=word1;
-                result+=word2;
+                // take 2k characters, reverse first k
+                reverse(s.begin()+i,s.begin()+i+k);
                 i+=2*k;
             }
         }
-        return result;
+        return s;
     }
 };
